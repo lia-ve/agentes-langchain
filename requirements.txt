@@ -8,3 +8,4 @@ pypdf>=5.0.1,<5.1
 wikipedia>=1.4.0,<1.5
 duckduckgo-search>=6.3.2,<6.4
 bs4>=0.0.2,<0.1
+chromadb>=0.5.16,<0.6
